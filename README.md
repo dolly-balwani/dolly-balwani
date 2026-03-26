@@ -174,14 +174,8 @@ Fun Fact: I debug with coffee ☕ and deploy with confidence 🚀
 
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="60%"/>
-</div>
-
-<br/>
+<p align="center"><sub><i>"Code it. Ship it. Learn from it. Repeat. 🔁"</i></sub></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%"/>
 </p>
-
-<p align="center"><b><i>"Code it. Ship it. Learn from it. Repeat. 🔁"</i></b></p>
