@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hey+there!+I'm+Dolly+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hey+there!+I'm+Dolly+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,9 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=dolly-balwani&style=flat-square&color=00D9FF" alt="Profile views"/>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-</div>
+
 
 ---
 
