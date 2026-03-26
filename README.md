@@ -152,7 +152,7 @@ Fun Fact: I debug with coffee ☕ and deploy with confidence 🚀
 - 🧠 **NLP** — Transformers, text classification, and language models
 - 📊 **Machine Learning** — Building and training models with real-world data
 - 🔗 **Blockchain** — Smart contracts, DApps, and decentralized systems
-- 🏗️ **System Design** — Designing robust, scalable architectures
+
 
 ---
 
