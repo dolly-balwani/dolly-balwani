@@ -164,14 +164,6 @@ Fun Fact: I debug with coffee ☕ and deploy with confidence 🚀
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dolly-balwani&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" width="95%"/>
-</p>
-
----
-
 ### 📬 Let's Connect!
 
 <p align="center">
