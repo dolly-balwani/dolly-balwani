@@ -14,14 +14,14 @@
 
 ```yaml
 Name: Dolly Balwani
-Role: Engineering Student | B.E. 3rd Year
+Role: Engineering Student | B.E. 4th Year
 Focus: Full-Stack Development | AI/ML Enthusiast
 Location: India 🇮🇳
 Currently Building: Real-world scalable applications
 Fun Fact: I debug with coffee ☕ and deploy with confidence 🚀
 ```
 
-- 🎓 Pursuing **B.E. in Computer Science** — 3rd Year
+- 🎓 Pursuing **B.E. in Computer Science** — 4th Year
 - 💻 Passionate **Full-Stack Developer** who loves building end-to-end products
 - 🧠 Strong in **Data Structures & Algorithms** — writing clean, efficient code
 - 🤖 Diving deep into **NLP, Machine Learning**, and **Blockchain** technologies
