@@ -117,27 +117,13 @@ Fun Fact: I debug with coffee ☕ and deploy with confidence 🚀
 
 <p align="center">
   <a href="https://github.com/dolly-balwani">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dolly-balwani&theme=github_dark" alt="GitHub Stats" width="32%"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/dolly-balwani">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dolly-balwani&theme=github_dark" alt="Top Languages by Repo" width="32%"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/dolly-balwani">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dolly-balwani&theme=github_dark" alt="Top Languages by Commit" width="32%"/>
+    <img src="https://streak-stats.demolab.com?user=dolly-balwani&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" width="55%"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/dolly-balwani">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dolly-balwani&theme=github_dark" alt="Contribution Graph" width="98%"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dolly-balwani">
-    <img src="https://streak-stats.demolab.com?user=dolly-balwani&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" width="48%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dolly-balwani&theme=github-compact&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true" alt="Contribution Graph" width="95%"/>
   </a>
 </p>
 
