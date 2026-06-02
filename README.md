@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hey+there!+I'm+Dolly+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hey+there!+I'm+Dolly+%F0%9F%91%8B;Full-Stack+Dev+%7C+AI%2FML+Explorer+%F0%9F%A7%A0;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,7 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=dolly-balwani&style=flat-square&color=00D9FF" alt="Profile views"/>
 </p>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%"/>
+</p>
 
 ---
 
@@ -95,6 +97,7 @@ Fun Fact: I debug with coffee ☕ and deploy with confidence 🚀
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </p>
 </details>
@@ -115,20 +118,95 @@ Fun Fact: I debug with coffee ☕ and deploy with confidence 🚀
 
 ---
 
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ Proctoring-AI</h3>
+      <p align="center">
+        <a href="https://github.com/dolly-balwani/Proctoring-AI">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center"><em>AI-powered online exam proctoring with real-time face detection, secure auth via Firebase, built with Next.js & TensorFlow.js</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💚 SAHAY</h3>
+      <p align="center">
+        <a href="https://github.com/dolly-balwani/SAHAY">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center"><em>Full-stack digital mental wellness platform with PHQ-9/GAD-7 assessments, emotional chatbot, mood tracking & counsellor booking</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔗 DApp Identity Management</h3>
+      <p align="center">
+        <a href="https://github.com/dolly-balwani/DApp-digital-identity-management">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center"><em>Decentralized application for digital identity management built on blockchain technology</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📋 AutoNAAC</h3>
+      <p align="center">
+        <a href="https://github.com/dolly-balwani/AutoNAAC">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center"><em>AI-driven NAAC accreditation report automation using LLaMA models, Excel processing & Google Drive integration</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LLaMA-7B61FF?style=flat-square&logo=meta&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dolly-balwani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" width="48%"/>
+  <a href="https://github.com/dolly-balwani">
+    <img src="https://github-readme-stats.vercel.app/api?username=dolly-balwani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" width="48%"/>
+  </a>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolly-balwani&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" width="42%"/>
+  <a href="https://github.com/dolly-balwani">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolly-balwani&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" width="42%"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dolly-balwani&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" width="48%"/>
+  <a href="https://github.com/dolly-balwani">
+    <img src="https://streak-stats.demolab.com?user=dolly-balwani&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" width="48%"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dolly-balwani&theme=github-compact&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true" alt="Contribution Graph" width="95%"/>
+  <a href="https://github.com/dolly-balwani">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dolly-balwani&theme=github-compact&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true" alt="Contribution Graph" width="95%"/>
+  </a>
 </p>
 
 <picture>
@@ -174,8 +252,8 @@ Fun Fact: I debug with coffee ☕ and deploy with confidence 🚀
 
 <br/>
 
-<p align="center"><sub><i>"Code it. Ship it. Learn from it. Repeat. 🔁"</i></sub></p>
+<p align="center"><sub><i>"First, solve the problem. Then, write the code." — John Johnson 💡</i></sub></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
