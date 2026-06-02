@@ -111,7 +111,17 @@ Fun Fact: I debug with coffee ☕ and deploy with confidence 🚀
 </p>
 </details>
 
+---
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/dolly-balwani">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dolly-balwani&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true" alt="Contribution Graph" width="95%"/>
+  </a>
+</p>
+
+---
 
 ### 🌱 Currently Learning
 
