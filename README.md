@@ -117,7 +117,25 @@ Fun Fact: I debug with coffee ☕ and deploy with confidence 🚀
 
 <p align="center">
   <a href="https://github.com/dolly-balwani">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dolly-balwani&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true" alt="Contribution Graph" width="95%"/>
+    <img src="https://ghchart.rshah.org/00D9FF/dolly-balwani" alt="Dolly's Contribution Graph" width="100%"/>
+  </a>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/dolly-balwani">
+    <img src="https://github-readme-stats.vercel.app/api?username=dolly-balwani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/dolly-balwani">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolly-balwani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=dolly-balwani&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="60%"/>
   </a>
 </p>
 
