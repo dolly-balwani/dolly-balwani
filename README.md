@@ -117,7 +117,7 @@ Fun Fact: I debug with coffee ☕ and deploy with confidence 🚀
 
 <p align="center">
   <a href="https://github.com/dolly-balwani">
-    <img src="https://ghchart.rshah.org/00D9FF/dolly-balwani" alt="Dolly's Contribution Graph" width="100%"/>
+    <img src="https://ghchart.rshah.org/40c463/dolly-balwani" alt="Dolly's Contribution Graph" width="100%"/>
   </a>
 </p>
 
@@ -125,17 +125,17 @@ Fun Fact: I debug with coffee ☕ and deploy with confidence 🚀
 
 <p align="center">
   <a href="https://github.com/dolly-balwani">
-    <img src="https://github-readme-stats.vercel.app/api?username=dolly-balwani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dolly-balwani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/dolly-balwani">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolly-balwani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolly-balwani&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="Top Languages" height="180"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=dolly-balwani&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="60%"/>
+    <img src="https://streak-stats.demolab.com?user=dolly-balwani&theme=github_dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" alt="GitHub Streak" width="60%"/>
   </a>
 </p>
 
