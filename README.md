@@ -117,8 +117,16 @@ Fun Fact: I debug with coffee ☕ and deploy with confidence 🚀
 
 <p align="center">
   <a href="https://github.com/dolly-balwani">
-    <img src="https://ghchart.rshah.org/40c463/dolly-balwani" alt="Dolly's Contribution Graph" width="100%"/>
+    <img src="https://raw.githubusercontent.com/dolly-balwani/dolly-balwani/output/activity-graph.svg" alt="Contribution Graph" width="95%"/>
   </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dolly-balwani/dolly-balwani/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dolly-balwani/dolly-balwani/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/dolly-balwani/dolly-balwani/output/github-snake.svg" width="95%" />
+  </picture>
 </p>
 
 ### 📊 GitHub Stats
